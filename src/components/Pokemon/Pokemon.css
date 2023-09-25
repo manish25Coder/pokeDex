@@ -1,0 +1,19 @@
+.pokemon{
+    margin-top: 2rem;
+    flex-basis: 20%;
+    height: 200px;
+    width: 300px;
+}
+.pokemon-name{
+    font-size: large;
+    letter-spacing: 0.3rem;
+}
+.pokemon-img{
+    margin-top: 1rem;
+    height: 109px;
+    max-height: 800px;
+}
+
+.pokemon:hover{
+    background-color: #e0d9c8;
+}
