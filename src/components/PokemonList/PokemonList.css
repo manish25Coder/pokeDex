@@ -14,3 +14,18 @@
     padding: 1rem;
     margin-left: 1rem;
 }
+.controls button:hover{
+    background-color: gray;
+    pointer-events: fill;
+    color: rgb(114, 80, 80);
+    cursor: pointer;
+
+
+}
+@media (max-width: 600px){
+    .pokemon-wrapper{
+        display: flex;
+        flex-direction: column;
+
+    }
+}

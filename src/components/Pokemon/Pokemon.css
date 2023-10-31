@@ -17,3 +17,13 @@
 .pokemon:hover{
     background-color: #e0d9c8;
 }
+
+@media (max-width: 600px){
+    .pokemon{
+    margin: 1rem 2rem;
+    }
+    .pokemon-img{
+    height: 10rem;
+    padding: 1rem;
+    }
+}
