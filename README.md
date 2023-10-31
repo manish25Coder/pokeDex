@@ -1,8 +1,24 @@
 # React + Vite
+# Pokedex React.js App
+Welcome to the Pokedex repository! 
+This web application is designed with the help you pokeAPI  It's built using React.js and integrates with the PokeAPI to fetch and display Pokémon data.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# When you Run 
+<img width="906" alt="image" src="https://github.com/manish25Coder/pokeDex/assets/123229921/40b075d7-60f3-48af-881e-0db979d526e7">
 
-Currently, two official plugins are available:
+# When you click on any pokemon or By searching
+<img width="591" alt="image" src="https://github.com/manish25Coder/pokeDex/assets/123229921/7189f7a0-6b0d-4fc0-a4d3-f69a653bfbca">
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+
+# Prerequisites
+>>Node.js and npm installed on your computer.
+
+# Install the project dependencies:
+
+  npm install
+<h3>Start the development server:</h3>
+  npm start<br>
+  npm run div
+
+>>Open your web browser and go to http://localhost:3000 to access the app
